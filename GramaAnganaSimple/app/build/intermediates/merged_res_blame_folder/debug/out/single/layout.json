@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\item_event.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\item_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\fragment_events.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\fragment_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\activity_add_maintenance.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\activity_add_maintenance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\fragment_admin_bookings.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\fragment_admin_bookings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\fragment_calendar.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\item_maintenance.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\item_maintenance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\fragment_maintenance.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\fragment_maintenance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\item_booking_slot.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\item_booking_slot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\activity_booking_form.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\activity_booking_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\activity_splash.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\bottom_sheet_pledge.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\bottom_sheet_pledge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\item_calendar_day.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\item_calendar_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.gramaangana.app-mergeDebugResources-59:/layout/fragment_maintenance.xml",
+        "source": "com.gramaangana.app-main-62:/layout/fragment_maintenance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\layout_calendar_legend.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\layout_calendar_legend.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\item_today_event.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\item_today_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-mergeDebugResources-59:\\layout\\item_admin_booking.xml",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\item_admin_booking.xml"
+    }
+]

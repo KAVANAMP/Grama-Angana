@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.gramaangana.app-mergeDebugResources-58:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Kavana M.P\\.gradle\\caches\\transforms-3\\386149bd9aa78b3d9faf6a9df7a7eae0\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

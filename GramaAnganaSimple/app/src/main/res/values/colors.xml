@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Colors -->
+    <color name="primary">#1B5E20</color>
+    <color name="primary_dark">#003300</color>
+    <color name="primary_light">#4CAF50</color>
+    <color name="primary_surface">#E8F5E9</color>
+    <color name="accent">#FF6F00</color>
+    <color name="accent_light">#FFF3E0</color>
+
+    <!-- Semantic Colors -->
+    <color name="status_free">#2E7D32</color>
+    <color name="status_booked">#C62828</color>
+    <color name="status_pending">#F57F17</color>
+
+    <!-- UI Colors -->
+    <color name="background">#F9FBF9</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F8E9</color>
+    <color name="text_primary">#1A2E1A</color>
+    <color name="text_secondary">#4A6741</color>
+    <color name="text_disabled">#B0BEC5</color>
+    <color name="divider">#E0E0E0</color>
+
+    <!-- Calendar dot colors -->
+    <color name="dot_booked">#E53935</color>
+    <color name="dot_pending">#FB8C00</color>
+    <color name="dot_free">#43A047</color>
+    <color name="day_selected">#1B5E20</color>
+    <color name="day_today">#E8F5E9</color>
+
+    <!-- Progress -->
+    <color name="progress_track">#C8E6C9</color>
+    <color name="progress_fill">#FF6F00</color>
+</resources>

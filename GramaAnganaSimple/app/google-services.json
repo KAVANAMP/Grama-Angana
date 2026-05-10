@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357443311476",
+    "project_id": "gramaangana",
+    "storage_bucket": "gramaangana.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357443311476:android:b0f04f74a698d0be3a7e21",
+        "android_client_info": {
+          "package_name": "com.gramaangana"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwtwMF75PkaWI27LTXqpRz5m8AHJjqqIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

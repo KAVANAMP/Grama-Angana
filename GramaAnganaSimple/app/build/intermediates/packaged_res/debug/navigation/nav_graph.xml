@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.gramaangana.ui.home.HomeFragment"
+        android:label="Home">
+        <action
+            android:id="@+id/action_home_to_calendar"
+            app:destination="@id/calendarFragment" />
+        <action
+            android:id="@+id/action_home_to_maintenance"
+            app:destination="@id/maintenanceFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/calendarFragment"
+        android:name="com.gramaangana.ui.calendar.CalendarFragment"
+        android:label="Calendar" />
+
+    <fragment
+        android:id="@+id/maintenanceFragment"
+        android:name="com.gramaangana.ui.maintenance.MaintenanceFragment"
+        android:label="Maintenance Jar" />
+
+    <fragment
+        android:id="@+id/eventsFragment"
+        android:name="com.gramaangana.ui.events.EventsFragment"
+        android:label="Events" />
+
+    <fragment
+        android:id="@+id/adminFragment"
+        android:name="com.gramaangana.ui.admin.AdminBookingsFragment"
+        android:label="Admin Panel" />
+
+</navigation>

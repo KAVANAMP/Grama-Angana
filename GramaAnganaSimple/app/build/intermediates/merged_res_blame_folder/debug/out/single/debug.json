@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_ic_events.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\ic_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_ic_time.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\ic_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\color_bottom_nav_colors.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\color\\bottom_nav_colors.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\font_poppins_bold.ttf.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\font\\poppins_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_bg_day_today.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\bg_day_today.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_progress_bar_drawable.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\progress_bar_drawable.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_item_event.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\item_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\ic_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_fragment_admin_bookings.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\fragment_admin_bookings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_layout_calendar_legend.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\layout_calendar_legend.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_ic_people.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\ic_people.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_item_today_event.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\item_today_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\font_poppins.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\font\\poppins.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_ic_chevron_right.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\ic_chevron_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_bg_spinner.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\bg_spinner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_ic_admin.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\ic_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_item_admin_booking.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\item_admin_booking.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_dot_pending.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\dot_pending.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_item_booking_slot.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\item_booking_slot.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_item_maintenance.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\item_maintenance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_grama_angana_logo.png.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\grama_angana_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_bg_chip.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\bg_chip.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\font_poppins_semibold.ttf.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\font\\poppins_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_dot_booked.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\dot_booked.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_ic_arrow_right.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\ic_arrow_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_fragment_events.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\fragment_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_bottom_sheet_pledge.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\bottom_sheet_pledge.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_item_calendar_day.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\item_calendar_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\ic_phone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\font_poppins_regular.ttf.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\font\\poppins_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_ic_chevron_left.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\ic_chevron_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_bg_day_selected.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\bg_day_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_activity_add_maintenance.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\activity_add_maintenance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_fragment_calendar.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\fragment_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_bg_chip_accent.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\bg_chip_accent.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_fragment_maintenance.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\fragment_maintenance.xml"
+    },
+    {
+        "merged": "com.gramaangana.app-merged_res-60:/layout_fragment_maintenance.xml.flat",
+        "source": "com.gramaangana.app-main-62:/layout/fragment_maintenance.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\drawable_ic_jar.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\drawable\\ic_jar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-merged_res-60:\\layout_activity_booking_form.xml.flat",
+        "source": "C:\\Users\\Kavana M.P\\.gradle\\daemon\\8.2\\com.gramaangana.app-main-62:\\layout\\activity_booking_form.xml"
+    }
+]

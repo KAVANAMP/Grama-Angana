@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#FF6F00</color>
+    <color name="accent_light">#FFF3E0</color>
+    <color name="background">#F9FBF9</color>
+    <color name="day_selected">#1B5E20</color>
+    <color name="day_today">#E8F5E9</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="dot_booked">#E53935</color>
+    <color name="dot_free">#43A047</color>
+    <color name="dot_pending">#FB8C00</color>
+    <color name="primary">#1B5E20</color>
+    <color name="primary_dark">#003300</color>
+    <color name="primary_light">#4CAF50</color>
+    <color name="primary_surface">#E8F5E9</color>
+    <color name="progress_fill">#FF6F00</color>
+    <color name="progress_track">#C8E6C9</color>
+    <color name="status_booked">#C62828</color>
+    <color name="status_free">#2E7D32</color>
+    <color name="status_pending">#F57F17</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_variant">#F1F8E9</color>
+    <color name="text_disabled">#B0BEC5</color>
+    <color name="text_primary">#1A2E1A</color>
+    <color name="text_secondary">#4A6741</color>
+    <dimen name="bottom_nav_height">64dp</dimen>
+    <dimen name="button_corner_radius">12dp</dimen>
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="icon_size_lg">64dp</dimen>
+    <dimen name="icon_size_md">40dp</dimen>
+    <dimen name="icon_size_sm">24dp</dimen>
+    <dimen name="spacing_lg">24dp</dimen>
+    <dimen name="spacing_md">16dp</dimen>
+    <dimen name="spacing_sm">8dp</dimen>
+    <dimen name="spacing_xl">32dp</dimen>
+    <dimen name="spacing_xs">4dp</dimen>
+    <dimen name="text_body">14sp</dimen>
+    <dimen name="text_caption">12sp</dimen>
+    <dimen name="text_title">20sp</dimen>
+    <string name="admin_panel">🏛️ Admin Panel</string>
+    <string name="admin_role">🏛️ Admin</string>
+    <string name="all_bookings_tab">📋 All Bookings</string>
+    <string name="app_name">Grama-Angana</string>
+    <string name="approve">✅ Approve</string>
+    <string name="book_hall">📅 Book Hall</string>
+    <string name="cancel">Cancel</string>
+    <string name="checking_availability">Checking availability...</string>
+    <string name="email_name">Email / Name</string>
+    <string name="featured_event">⭐ Featured Event</string>
+    <string name="funded">✅ Funded!</string>
+    <string name="gcm_defaultSenderId" translatable="false">357443311476</string>
+    <string name="google_api_key" translatable="false">AIzaSyCwtwMF75PkaWI27LTXqpRz5m8AHJjqqIY</string>
+    <string name="google_app_id" translatable="false">1:357443311476:android:b0f04f74a698d0be3a7e21</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCwtwMF75PkaWI27LTXqpRz5m8AHJjqqIY</string>
+    <string name="google_storage_bucket" translatable="false">gramaangana.firebasestorage.app</string>
+    <string name="hall_status">Hall Status</string>
+    <string name="help">Help</string>
+    <string name="items_need_attention">items need attention</string>
+    <string name="login">Login</string>
+    <string name="login_as_admin">Login as Panchayat Admin</string>
+    <string name="login_as_member">Login as Community Member</string>
+    <string name="logout">🚪 Logout</string>
+    <string name="logout_confirm">Are you sure you want to logout?</string>
+    <string name="maintenance_jar">🫙 Maintenance Jar</string>
+    <string name="manage_bookings">Manage Booking Requests</string>
+    <string name="member_role">👤 Member</string>
+    <string name="no_bookings">✅ No bookings — Hall is FREE!</string>
+    <string name="no_events">🌿 No events today. The hall is quiet.</string>
+    <string name="no_events_upcoming">🌿 No upcoming events. Check back soon!</string>
+    <string name="no_maintenance">🌿 No maintenance items. Hall is in great shape!</string>
+    <string name="no_pending">🎉 No pending requests!\nAll bookings are managed.</string>
+    <string name="overall_progress">Overall Progress</string>
+    <string name="password">Password</string>
+    <string name="pending_tab">⏳ Pending</string>
+    <string name="pledge_support">💚 Pledge Support</string>
+    <string name="project_id" translatable="false">gramaangana</string>
+    <string name="reject">❌ Reject</string>
+    <string name="role_admin">🏛️ Admin</string>
+    <string name="role_member">👤 Member</string>
+    <string name="select_date_prompt">Tap a date to see bookings or request a slot</string>
+    <string name="select_role">Select Your Role</string>
+    <string name="tagline">ನಮ್ಮ ಸಮಾಜ — ನಮ್ಮ ಭವನ 🏛️</string>
+    <string name="todays_events">Today\'s Events</string>
+    <string name="view_calendar">🗓 Calendar</string>
+    <string name="yes_logout">Yes, Logout</string>
+    <style name="ShapeAppearance.GramaAngana.BottomSheet" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">24dp</item>
+        <item name="cornerSizeTopLeft">24dp</item>
+    </style>
+    <style name="TextAppearance.GramaAngana.Body" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+    <style name="TextAppearance.GramaAngana.Title" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+        <item name="android:textColor">@color/text_primary</item>
+    </style>
+    <style name="Theme.GramaAngana" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorSecondary">@color/accent</item>
+        <item name="colorSecondaryVariant">@color/accent_light</item>
+        <item name="android:colorBackground">@color/background</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+        <item name="android:fontFamily">@font/poppins</item>
+        <item name="toolbarStyle">@style/Widget.GramaAngana.Toolbar</item>
+    </style>
+    <style name="Theme.GramaAngana.BottomSheet" parent="Theme.MaterialComponents.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/Widget.GramaAngana.BottomSheet</item>
+    </style>
+    <style name="Theme.GramaAngana.Splash" parent="Theme.GramaAngana">
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:windowBackground">@color/primary_dark</item>
+    </style>
+    <style name="Widget.GramaAngana.BottomSheet" parent="Widget.MaterialComponents.BottomSheet.Modal">
+        <item name="shapeAppearance">@style/ShapeAppearance.GramaAngana.BottomSheet</item>
+    </style>
+    <style name="Widget.GramaAngana.Button" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:fontFamily">@font/poppins_semibold</item>
+    </style>
+    <style name="Widget.GramaAngana.Card" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">4dp</item>
+        <item name="cardBackgroundColor">@color/surface</item>
+    </style>
+    <style name="Widget.GramaAngana.FAB" parent="Widget.MaterialComponents.ExtendedFloatingActionButton.Icon">
+        <item name="backgroundTint">@color/accent</item>
+        <item name="tint">@android:color/white</item>
+    </style>
+    <style name="Widget.GramaAngana.Toolbar" parent="Widget.MaterialComponents.Toolbar.Primary">
+        <item name="android:background">@color/primary</item>
+        <item name="titleTextColor">@android:color/white</item>
+    </style>
+</resources>
